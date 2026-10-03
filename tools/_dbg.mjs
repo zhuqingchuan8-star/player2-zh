@@ -1,0 +1,13 @@
+import fs from "node:fs"; import zlib from "node:zlib";
+const D=JSON.parse(fs.readFileSync("i18n/zh-CN.json","utf8"));
+console.log("dict size",Object.keys(D).length,"Home?",Object.prototype.hasOwnProperty.call(D,"Home"),D["Home"]);
+const buf=fs.readFileSync("D:\\ruanjian\\player2\\player2.exe");
+const chunks=[];
+await new Promise((res,rej)=>{const d=zlib.createBrotliDecompress();d.on("data",c=>chunks.push(c));d.on("end",res);d.on("error",rej);d.end(buf.subarray(57612714,57612714+736578));});
+const js=Buffer.concat(chunks).toString("utf8");
+const re=/"(?:[^"\\]|\\.)*"|'(?:[^'\\]|\\.)*'/g;
+const m=js.match(re)||[];
+console.log("literals matched:",m.length);
+console.log("sample:",m.slice(0,6));
+console.log("count \"Home\":",(js.match(/"Home"/g)||[]).length);
+console.log("count \"Cancel\":",(js.match(/"Cancel"/g)||[]).length);

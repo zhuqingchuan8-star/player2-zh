@@ -1,0 +1,2212 @@
+[
+  {
+    "id": "p0004",
+    "kind": "phrase",
+    "en": "\nMaterial Type: "
+  },
+  {
+    "id": "p0055",
+    "kind": "phrase",
+    "en": "ADBE Vector Graphic - Fill"
+  },
+  {
+    "id": "p0056",
+    "kind": "phrase",
+    "en": "ADBE Vector Graphic - Stroke"
+  },
+  {
+    "id": "p0057",
+    "kind": "phrase",
+    "en": "ADBE Vector Group"
+  },
+  {
+    "id": "p0058",
+    "kind": "phrase",
+    "en": "ADBE Vector Shape - Rect"
+  },
+  {
+    "id": "p0059",
+    "kind": "phrase",
+    "en": "Aborted due to condition callback returning false."
+  },
+  {
+    "id": "p0060",
+    "kind": "phrase",
+    "en": "Add a screenshot"
+  },
+  {
+    "id": "p0061",
+    "kind": "phrase",
+    "en": "Agent Lifecycle"
+  },
+  {
+    "id": "p0062",
+    "kind": "phrase",
+    "en": "AgentCard: onClose and onSelectClick cannot both be provided. They are mutually exclusive."
+  },
+  {
+    "id": "p0063",
+    "kind": "phrase",
+    "en": "An error occurred process error"
+  },
+  {
+    "id": "p0064",
+    "kind": "phrase",
+    "en": "Animation cancelled"
+  },
+  {
+    "id": "p0065",
+    "kind": "phrase",
+    "en": "Arabic (Algeria)"
+  },
+  {
+    "id": "p0066",
+    "kind": "phrase",
+    "en": "Arabic (Chad)"
+  },
+  {
+    "id": "p0067",
+    "kind": "phrase",
+    "en": "Arabic (Egypt)"
+  },
+  {
+    "id": "p0068",
+    "kind": "phrase",
+    "en": "Arabic (Iran)"
+  },
+  {
+    "id": "p0069",
+    "kind": "phrase",
+    "en": "Arabic (Iraq)"
+  },
+  {
+    "id": "p0070",
+    "kind": "phrase",
+    "en": "Arabic (Jordan)"
+  },
+  {
+    "id": "p0071",
+    "kind": "phrase",
+    "en": "Arabic (Kuwait)"
+  },
+  {
+    "id": "p0072",
+    "kind": "phrase",
+    "en": "Arabic (Lebanon)"
+  },
+  {
+    "id": "p0073",
+    "kind": "phrase",
+    "en": "Arabic (Morocco)"
+  },
+  {
+    "id": "p0074",
+    "kind": "phrase",
+    "en": "Arabic (Palestine)"
+  },
+  {
+    "id": "p0075",
+    "kind": "phrase",
+    "en": "Arabic (Qatar)"
+  },
+  {
+    "id": "p0076",
+    "kind": "phrase",
+    "en": "Arabic (Saudi Arabia)"
+  },
+  {
+    "id": "p0077",
+    "kind": "phrase",
+    "en": "Arabic (Sudan)"
+  },
+  {
+    "id": "p0078",
+    "kind": "phrase",
+    "en": "Arabic (Syria)"
+  },
+  {
+    "id": "p0079",
+    "kind": "phrase",
+    "en": "Arabic (Tunisia)"
+  },
+  {
+    "id": "p0080",
+    "kind": "phrase",
+    "en": "Arabic (United Arab Emirates)"
+  },
+  {
+    "id": "p0083",
+    "kind": "phrase",
+    "en": "Attempting to send previously queued event"
+  },
+  {
+    "id": "p0084",
+    "kind": "phrase",
+    "en": "Back to reference "
+  },
+  {
+    "id": "p0086",
+    "kind": "phrase",
+    "en": "Cannot flush events and disable SDK. No client defined."
+  },
+  {
+    "id": "p0087",
+    "kind": "phrase",
+    "en": "Cannot flush events. No client defined."
+  },
+  {
+    "id": "p0088",
+    "kind": "phrase",
+    "en": "Cannot read private member from an object whose class did not declare it"
+  },
+  {
+    "id": "p0089",
+    "kind": "phrase",
+    "en": "Cannot write private member to an object whose class did not declare it"
+  },
+  {
+    "id": "p0090",
+    "kind": "phrase",
+    "en": "Captured worker unhandled rejection"
+  },
+  {
+    "id": "p0091",
+    "kind": "phrase",
+    "en": "Cascadia Code"
+  },
+  {
+    "id": "p0092",
+    "kind": "phrase",
+    "en": "Chinese (Cantonese)"
+  },
+  {
+    "id": "p0093",
+    "kind": "phrase",
+    "en": "Chinese (Simplified)"
+  },
+  {
+    "id": "p0094",
+    "kind": "phrase",
+    "en": "Chinese (Traditional)"
+  },
+  {
+    "id": "p0095",
+    "kind": "phrase",
+    "en": "Click and drag to rotate, scroll to zoom."
+  },
+  {
+    "id": "p0096",
+    "kind": "phrase",
+    "en": "Click to Copy"
+  },
+  {
+    "id": "p0097",
+    "kind": "phrase",
+    "en": "Combined entry"
+  },
+  {
+    "id": "p0098",
+    "kind": "phrase",
+    "en": "Copy ID"
+  },
+  {
+    "id": "p0099",
+    "kind": "phrase",
+    "en": "Could not create sandbox iframe for pure fetch check, bailing to window.fetch: "
+  },
+  {
+    "id": "p0100",
+    "kind": "phrase",
+    "en": "Could not store previous trace in sessionStorage"
+  },
+  {
+    "id": "p0101",
+    "kind": "phrase",
+    "en": "Daily Spin Wheel Click"
+  },
+  {
+    "id": "p0102",
+    "kind": "phrase",
+    "en": "Danish (Denmark)"
+  },
+  {
+    "id": "p0103",
+    "kind": "phrase",
+    "en": "Delete Character"
+  },
+  {
+    "id": "p0106",
+    "kind": "phrase",
+    "en": "Detail View"
+  },
+  {
+    "id": "p0108",
+    "kind": "phrase",
+    "en": "Edit AI Friend"
+  },
+  {
+    "id": "p0109",
+    "kind": "phrase",
+    "en": "Edit Character"
+  },
+  {
+    "id": "p0111",
+    "kind": "phrase",
+    "en": "Encountered error running transport request:"
+  },
+  {
+    "id": "p0112",
+    "kind": "phrase",
+    "en": "English (Australia)"
+  },
+  {
+    "id": "p0113",
+    "kind": "phrase",
+    "en": "English (India)"
+  },
+  {
+    "id": "p0114",
+    "kind": "phrase",
+    "en": "English (New Zealand)"
+  },
+  {
+    "id": "p0115",
+    "kind": "phrase",
+    "en": "English (United Kingdom)"
+  },
+  {
+    "id": "p0116",
+    "kind": "phrase",
+    "en": "English (United States)"
+  },
+  {
+    "id": "p0117",
+    "kind": "phrase",
+    "en": "Error Create"
+  },
+  {
+    "id": "p0118",
+    "kind": "phrase",
+    "en": "Error Edit"
+  },
+  {
+    "id": "p0119",
+    "kind": "phrase",
+    "en": "Error loading image:"
+  },
+  {
+    "id": "p0120",
+    "kind": "phrase",
+    "en": "Error sending. Event queued."
+  },
+  {
+    "id": "p0121",
+    "kind": "phrase",
+    "en": "Error while extracting response event form XHR response"
+  },
+  {
+    "id": "p0122",
+    "kind": "phrase",
+    "en": "Error while sending envelope:"
+  },
+  {
+    "id": "p0123",
+    "kind": "phrase",
+    "en": "Error while sending profile chunk envelope:"
+  },
+  {
+    "id": "p0124",
+    "kind": "phrase",
+    "en": "Event dropped due to being a duplicate of previously captured event."
+  },
+  {
+    "id": "p0126",
+    "kind": "phrase",
+    "en": "Expected character"
+  },
+  {
+    "id": "p0127",
+    "kind": "phrase",
+    "en": "Expected find and replace tuple or list of tuples"
+  },
+  {
+    "id": "p0130",
+    "kind": "phrase",
+    "en": "External signal was aborted"
+  },
+  {
+    "id": "p0131",
+    "kind": "phrase",
+    "en": "Failed to capture PayPal order"
+  },
+  {
+    "id": "p0132",
+    "kind": "phrase",
+    "en": "Failed to check if user is anonymous"
+  },
+  {
+    "id": "p0133",
+    "kind": "phrase",
+    "en": "Failed to check login status"
+  },
+  {
+    "id": "p0134",
+    "kind": "phrase",
+    "en": "Failed to connect chat speech to text"
+  },
+  {
+    "id": "p0135",
+    "kind": "phrase",
+    "en": "Failed to create PayPal order"
+  },
+  {
+    "id": "p0136",
+    "kind": "phrase",
+    "en": "Failed to delete chat message"
+  },
+  {
+    "id": "p0137",
+    "kind": "phrase",
+    "en": "Failed to fetch"
+  },
+  {
+    "id": "p0138",
+    "kind": "phrase",
+    "en": "Failed to fetch credit daily reward"
+  },
+  {
+    "id": "p0139",
+    "kind": "phrase",
+    "en": "Failed to fetch credit rewards"
+  },
+  {
+    "id": "p0140",
+    "kind": "phrase",
+    "en": "Failed to fetch credits"
+  },
+  {
+    "id": "p0141",
+    "kind": "phrase",
+    "en": "Failed to fetch customer portal link"
+  },
+  {
+    "id": "p0142",
+    "kind": "phrase",
+    "en": "Failed to fetch joule receipt filter options"
+  },
+  {
+    "id": "p0143",
+    "kind": "phrase",
+    "en": "Failed to fetch joule receipts"
+  },
+  {
+    "id": "p0144",
+    "kind": "phrase",
+    "en": "Failed to fetch leaderboard data"
+  },
+  {
+    "id": "p0145",
+    "kind": "phrase",
+    "en": "Failed to fetch more chat history"
+  },
+  {
+    "id": "p0146",
+    "kind": "phrase",
+    "en": "Failed to fetch patron data"
+  },
+  {
+    "id": "p0147",
+    "kind": "phrase",
+    "en": "Failed to fetch patron deals"
+  },
+  {
+    "id": "p0148",
+    "kind": "phrase",
+    "en": "Failed to get auth tokens"
+  },
+  {
+    "id": "p0149",
+    "kind": "phrase",
+    "en": "Failed to get auth tokens: "
+  },
+  {
+    "id": "p0150",
+    "kind": "phrase",
+    "en": "Failed to get chat messages"
+  },
+  {
+    "id": "p0151",
+    "kind": "phrase",
+    "en": "Failed to get linked identities"
+  },
+  {
+    "id": "p0152",
+    "kind": "phrase",
+    "en": "Failed to get user profile"
+  },
+  {
+    "id": "p0153",
+    "kind": "phrase",
+    "en": "Failed to get xhr response headers"
+  },
+  {
+    "id": "p0154",
+    "kind": "phrase",
+    "en": "Failed to link identity"
+  },
+  {
+    "id": "p0155",
+    "kind": "phrase",
+    "en": "Failed to login"
+  },
+  {
+    "id": "p0156",
+    "kind": "phrase",
+    "en": "Failed to login via website"
+  },
+  {
+    "id": "p0157",
+    "kind": "phrase",
+    "en": "Failed to purchase patron"
+  },
+  {
+    "id": "p0158",
+    "kind": "phrase",
+    "en": "Failed to retry sending"
+  },
+  {
+    "id": "p0159",
+    "kind": "phrase",
+    "en": "Failed to revise PayPal subscription"
+  },
+  {
+    "id": "p0160",
+    "kind": "phrase",
+    "en": "Failed to send chat message"
+  },
+  {
+    "id": "p0161",
+    "kind": "phrase",
+    "en": "Failed to serialize OpenAI tools:"
+  },
+  {
+    "id": "p0162",
+    "kind": "phrase",
+    "en": "Failed to serialize body"
+  },
+  {
+    "id": "p0163",
+    "kind": "phrase",
+    "en": "Failed to start capture for game mode"
+  },
+  {
+    "id": "p0164",
+    "kind": "phrase",
+    "en": "Failed to update chat message"
+  },
+  {
+    "id": "p0165",
+    "kind": "phrase",
+    "en": "Failed to update user profile"
+  },
+  {
+    "id": "p0166",
+    "kind": "phrase",
+    "en": "Failed to upgrade via website"
+  },
+  {
+    "id": "p0167",
+    "kind": "phrase",
+    "en": "Finish Create"
+  },
+  {
+    "id": "p0168",
+    "kind": "phrase",
+    "en": "Finish Delete"
+  },
+  {
+    "id": "p0169",
+    "kind": "phrase",
+    "en": "Fira Code"
+  },
+  {
+    "id": "p0170",
+    "kind": "phrase",
+    "en": "Flushing outcomes..."
+  },
+  {
+    "id": "p0171",
+    "kind": "phrase",
+    "en": "French (Canada)"
+  },
+  {
+    "id": "p0172",
+    "kind": "phrase",
+    "en": "German (Switzerland)"
+  },
+  {
+    "id": "p0173",
+    "kind": "phrase",
+    "en": "Guided Tour"
+  },
+  {
+    "id": "p0175",
+    "kind": "phrase",
+    "en": "Korean (South Korea)"
+  },
+  {
+    "id": "p0176",
+    "kind": "phrase",
+    "en": "Largest contentful paint"
+  },
+  {
+    "id": "p0177",
+    "kind": "phrase",
+    "en": "Layout shift"
+  },
+  {
+    "id": "p0178",
+    "kind": "phrase",
+    "en": "Load failed"
+  },
+  {
+    "id": "p0186",
+    "kind": "phrase",
+    "en": "M11.67 3.87 9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+  },
+  {
+    "id": "p0206",
+    "kind": "phrase",
+    "en": "M13,9H11V7H13M13,17H11V11H13M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,\n        0 22,12A10,10 0 0,0 12,2Z"
+  },
+  {
+    "id": "p0209",
+    "kind": "phrase",
+    "en": "M14.4 6 14 4H5v17h2v-7h5.6l.4 2h7V6z"
+  },
+  {
+    "id": "p0213",
+    "kind": "phrase",
+    "en": "M15.41 16.09l-4.58-4.59 4.58-4.59L14 5.5l-6 6 6 6z"
+  },
+  {
+    "id": "p0214",
+    "kind": "phrase",
+    "en": "M15.5 1h-8C6.12 1 5 2.12 5 3.5v17C5 21.88 6.12 23 7.5 23h8c1.38 0 2.5-1.12 2.5-2.5v-17C18 2.12 16.88 1 15.5 1m-4 21c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5m4.5-4H7V4h9z"
+  },
+  {
+    "id": "p0218",
+    "kind": "phrase",
+    "en": "M16.59 8.59 12 13.17 7.41 8.59 6 10l6 6 6-6z"
+  },
+  {
+    "id": "p0221",
+    "kind": "phrase",
+    "en": "M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4z"
+  },
+  {
+    "id": "p0222",
+    "kind": "phrase",
+    "en": "M17.77 3.77 16 2 6 12l10 10 1.77-1.77L9.54 12z"
+  },
+  {
+    "id": "p0234",
+    "kind": "phrase",
+    "en": "M2.01 21 23 12 2.01 3 2 10l15 2-15 2z"
+  },
+  {
+    "id": "p0257",
+    "kind": "phrase",
+    "en": "M6.23 20.23 8 22l10-10L8 2 6.23 3.77 14.46 12z"
+  },
+  {
+    "id": "p0258",
+    "kind": "phrase",
+    "en": "M6.41 6 5 7.41 9.58 12 5 16.59 6.41 18l6-6z"
+  },
+  {
+    "id": "p0262",
+    "kind": "phrase",
+    "en": "M7.41 15.41 12 10.83l4.59 4.58L18 14l-6-6-6 6z"
+  },
+  {
+    "id": "p0263",
+    "kind": "phrase",
+    "en": "M7.41 8.59 12 13.17l4.59-4.58L18 10l-6 6-6-6z"
+  },
+  {
+    "id": "p0266",
+    "kind": "phrase",
+    "en": "M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+  },
+  {
+    "id": "p0267",
+    "kind": "phrase",
+    "en": "M8.59 16.34l4.58-4.59-4.58-4.59L10 5.75l6 6-6 6z"
+  },
+  {
+    "id": "p0269",
+    "kind": "phrase",
+    "en": "M9.4 16.6 4.8 12l4.6-4.6L8 6l-6 6 6 6zm5.2 0 4.6-4.6-4.6-4.6L16 6l6 6-6 6z"
+  },
+  {
+    "id": "p0270",
+    "kind": "phrase",
+    "en": "Main Scene"
+  },
+  {
+    "id": "p0271",
+    "kind": "phrase",
+    "en": "Main UI thread blocked"
+  },
+  {
+    "id": "p0272",
+    "kind": "phrase",
+    "en": "Material: onBuild() has been removed."
+  },
+  {
+    "id": "p0273",
+    "kind": "phrase",
+    "en": "Minecraft Skin"
+  },
+  {
+    "id": "p0274",
+    "kind": "phrase",
+    "en": "Minutes played"
+  },
+  {
+    "id": "p0275",
+    "kind": "phrase",
+    "en": "Mods Card Click"
+  },
+  {
+    "id": "p0276",
+    "kind": "phrase",
+    "en": "NOTE: Skins work on Player2's servers or in Singleplayer if you have the Skin Restorer mod installed."
+  },
+  {
+    "id": "p0277",
+    "kind": "phrase",
+    "en": "NetworkError when attempting to fetch resource."
+  },
+  {
+    "id": "p0278",
+    "kind": "phrase",
+    "en": "No DSN provided, client will not send events."
+  },
+  {
+    "id": "p0279",
+    "kind": "phrase",
+    "en": "No client available to capture log."
+  },
+  {
+    "id": "p0280",
+    "kind": "phrase",
+    "en": "No client available to capture metric."
+  },
+  {
+    "id": "p0281",
+    "kind": "phrase",
+    "en": "No client configured on scope - will not capture event!"
+  },
+  {
+    "id": "p0282",
+    "kind": "phrase",
+    "en": "No client configured on scope - will not capture exception!"
+  },
+  {
+    "id": "p0283",
+    "kind": "phrase",
+    "en": "No client configured on scope - will not capture message!"
+  },
+  {
+    "id": "p0284",
+    "kind": "phrase",
+    "en": "No client setup, cannot send feedback."
+  },
+  {
+    "id": "p0285",
+    "kind": "phrase",
+    "en": "No description available"
+  },
+  {
+    "id": "p0286",
+    "kind": "phrase",
+    "en": "No details available"
+  },
+  {
+    "id": "p0287",
+    "kind": "phrase",
+    "en": "No dsn provided, will not send outcomes"
+  },
+  {
+    "id": "p0288",
+    "kind": "phrase",
+    "en": "No error message"
+  },
+  {
+    "id": "p0289",
+    "kind": "phrase",
+    "en": "No options"
+  },
+  {
+    "id": "p0290",
+    "kind": "phrase",
+    "en": "No outcomes to send"
+  },
+  {
+    "id": "p0291",
+    "kind": "phrase",
+    "en": "No tagline available"
+  },
+  {
+    "id": "p0292",
+    "kind": "phrase",
+    "en": "Not capturing exception because it's already been captured."
+  },
+  {
+    "id": "p0293",
+    "kind": "phrase",
+    "en": "Objects are not valid as a React child (found: "
+  },
+  {
+    "id": "p0294",
+    "kind": "phrase",
+    "en": "Open Link"
+  },
+  {
+    "id": "p0295",
+    "kind": "phrase",
+    "en": "Open Link Failed"
+  },
+  {
+    "id": "p0296",
+    "kind": "phrase",
+    "en": "OpenGL ES"
+  },
+  {
+    "id": "p0298",
+    "kind": "phrase",
+    "en": "Play now!"
+  },
+  {
+    "id": "p0299",
+    "kind": "phrase",
+    "en": "Portuguese (Brazil)"
+  },
+  {
+    "id": "p0300",
+    "kind": "phrase",
+    "en": "Portuguese (Portugal)"
+  },
+  {
+    "id": "p0301",
+    "kind": "phrase",
+    "en": "Private AI Friend"
+  },
+  {
+    "id": "p0302",
+    "kind": "phrase",
+    "en": "Promise never resolved before cacheEntryRemoved."
+  },
+  {
+    "id": "p0303",
+    "kind": "phrase",
+    "en": "React has blocked a javascript: URL as a security precaution."
+  },
+  {
+    "id": "p0304",
+    "kind": "phrase",
+    "en": "Remove screenshot"
+  },
+  {
+    "id": "p0305",
+    "kind": "phrase",
+    "en": "Report a Bug"
+  },
+  {
+    "id": "p0306",
+    "kind": "phrase",
+    "en": "SF Mono"
+  },
+  {
+    "id": "p0307",
+    "kind": "phrase",
+    "en": "Schematic Lifecycle"
+  },
+  {
+    "id": "p0308",
+    "kind": "phrase",
+    "en": "Select AI Friend"
+  },
+  {
+    "id": "p0309",
+    "kind": "phrase",
+    "en": "Selected AI Friend"
+  },
+  {
+    "id": "p0310",
+    "kind": "phrase",
+    "en": "Send Bug Report"
+  },
+  {
+    "id": "p0311",
+    "kind": "phrase",
+    "en": "Sending outcomes:"
+  },
+  {
+    "id": "p0312",
+    "kind": "phrase",
+    "en": "Skipped sending event because buffer is full."
+  },
+  {
+    "id": "p0313",
+    "kind": "phrase",
+    "en": "Skipping network body because of body type"
+  },
+  {
+    "id": "p0314",
+    "kind": "phrase",
+    "en": "Spanish (Latin America)"
+  },
+  {
+    "id": "p0315",
+    "kind": "phrase",
+    "en": "Start Create"
+  },
+  {
+    "id": "p0316",
+    "kind": "phrase",
+    "en": "Start Delete"
+  },
+  {
+    "id": "p0317",
+    "kind": "phrase",
+    "en": "Start Edit"
+  },
+  {
+    "id": "p0318",
+    "kind": "phrase",
+    "en": "Studio Autofix Triggered"
+  },
+  {
+    "id": "p0319",
+    "kind": "phrase",
+    "en": "Studio Create Dialog Opened"
+  },
+  {
+    "id": "p0320",
+    "kind": "phrase",
+    "en": "Studio Insufficient Credits"
+  },
+  {
+    "id": "p0321",
+    "kind": "phrase",
+    "en": "Studio Message Sent"
+  },
+  {
+    "id": "p0322",
+    "kind": "phrase",
+    "en": "Studio Model Auto Switched"
+  },
+  {
+    "id": "p0323",
+    "kind": "phrase",
+    "en": "Studio Model Changed"
+  },
+  {
+    "id": "p0324",
+    "kind": "phrase",
+    "en": "Studio Preview Fullscreen Toggled"
+  },
+  {
+    "id": "p0325",
+    "kind": "phrase",
+    "en": "Studio Preview Opened In Browser"
+  },
+  {
+    "id": "p0326",
+    "kind": "phrase",
+    "en": "Studio Preview Viewport Changed"
+  },
+  {
+    "id": "p0327",
+    "kind": "phrase",
+    "en": "Studio Project Created"
+  },
+  {
+    "id": "p0328",
+    "kind": "phrase",
+    "en": "Studio Project Creation Started"
+  },
+  {
+    "id": "p0329",
+    "kind": "phrase",
+    "en": "Studio Project Opened"
+  },
+  {
+    "id": "p0330",
+    "kind": "phrase",
+    "en": "Studio Project Trashed"
+  },
+  {
+    "id": "p0331",
+    "kind": "phrase",
+    "en": "Studio Session Error"
+  },
+  {
+    "id": "p0332",
+    "kind": "phrase",
+    "en": "Studio Session Started"
+  },
+  {
+    "id": "p0333",
+    "kind": "phrase",
+    "en": "Studio Setup Download Completed"
+  },
+  {
+    "id": "p0334",
+    "kind": "phrase",
+    "en": "Studio Setup Download Failed"
+  },
+  {
+    "id": "p0335",
+    "kind": "phrase",
+    "en": "Studio Setup Download Started"
+  },
+  {
+    "id": "p0336",
+    "kind": "phrase",
+    "en": "Studio Voice Input Used"
+  },
+  {
+    "id": "p0337",
+    "kind": "phrase",
+    "en": "Supabase integration was not installed because no Supabase client was provided."
+  },
+  {
+    "id": "p0338",
+    "kind": "phrase",
+    "en": "Suspense Fallback"
+  },
+  {
+    "id": "p0339",
+    "kind": "phrase",
+    "en": "Swedish (Sweden)"
+  },
+  {
+    "id": "p0340",
+    "kind": "phrase",
+    "en": "Thank you for your report!"
+  },
+  {
+    "id": "p0341",
+    "kind": "phrase",
+    "en": "The URL must be of scheme file"
+  },
+  {
+    "id": "p0343",
+    "kind": "phrase",
+    "en": "Transport disabled"
+  },
+  {
+    "id": "p0345",
+    "kind": "phrase",
+    "en": "Unable to determine if Feedback was correctly sent."
+  },
+  {
+    "id": "p0346",
+    "kind": "phrase",
+    "en": "Unable to extract extra data from the Error object:"
+  },
+  {
+    "id": "p0347",
+    "kind": "phrase",
+    "en": "Unable to send Replay"
+  },
+  {
+    "id": "p0348",
+    "kind": "phrase",
+    "en": "Unable to send feedback. This could be because of network issues, or because you are using an ad-blocker."
+  },
+  {
+    "id": "p0349",
+    "kind": "phrase",
+    "en": "Unable to send feedback. This could be because this domain is not in your list of allowed domains."
+  },
+  {
+    "id": "p0350",
+    "kind": "phrase",
+    "en": "Unable to submit feedback with empty message"
+  },
+  {
+    "id": "p0353",
+    "kind": "phrase",
+    "en": "Unknown error"
+  },
+  {
+    "id": "p0354",
+    "kind": "phrase",
+    "en": "Unknown error. This can happen due to CSP policy restrictions, network issues, or the worker script failing to load."
+  },
+  {
+    "id": "p0355",
+    "kind": "phrase",
+    "en": "Unnamed AI Friend"
+  },
+  {
+    "id": "p0356",
+    "kind": "phrase",
+    "en": "Unrecoverable error caught"
+  },
+  {
+    "id": "p0357",
+    "kind": "phrase",
+    "en": "Using Sidecar URL"
+  },
+  {
+    "id": "p0358",
+    "kind": "phrase",
+    "en": "WARNING: OrbitControls.js encountered an unknown camera type - pan disabled."
+  },
+  {
+    "id": "p0359",
+    "kind": "phrase",
+    "en": "WARNING: OrbitControls.js encountered an unknown camera type - zoom to cursor disabled."
+  },
+  {
+    "id": "p0360",
+    "kind": "phrase",
+    "en": "What's the bug? What did you expect?"
+  },
+  {
+    "id": "p0361",
+    "kind": "phrase",
+    "en": "Your Name"
+  },
+  {
+    "id": "p0362",
+    "kind": "phrase",
+    "en": "[Blob substitute]"
+  },
+  {
+    "id": "p0363",
+    "kind": "phrase",
+    "en": "[Feedback] Missing feedback modal integration!"
+  },
+  {
+    "id": "p0364",
+    "kind": "phrase",
+    "en": "[Feedback] Missing feedback screenshot integration. Proceeding without screenshots."
+  },
+  {
+    "id": "p0366",
+    "kind": "phrase",
+    "en": "[getChatState] Fetched state:"
+  },
+  {
+    "id": "p0367",
+    "kind": "phrase",
+    "en": "[native code]"
+  },
+  {
+    "id": "p0368",
+    "kind": "phrase",
+    "en": "[showReportDialog] DSN not configured"
+  },
+  {
+    "id": "p0369",
+    "kind": "phrase",
+    "en": "[showReportDialog] Global document not defined"
+  },
+  {
+    "id": "p0370",
+    "kind": "phrase",
+    "en": "[value cannot be serialized]"
+  },
+  {
+    "id": "l0531",
+    "kind": "label",
+    "en": "Aborted"
+  },
+  {
+    "id": "l0532",
+    "kind": "label",
+    "en": "Action"
+  },
+  {
+    "id": "l0533",
+    "kind": "label",
+    "en": "Activity"
+  },
+  {
+    "id": "l0534",
+    "kind": "label",
+    "en": "Alert"
+  },
+  {
+    "id": "l0535",
+    "kind": "label",
+    "en": "Any"
+  },
+  {
+    "id": "l0536",
+    "kind": "label",
+    "en": "Arabic"
+  },
+  {
+    "id": "l0537",
+    "kind": "label",
+    "en": "Array"
+  },
+  {
+    "id": "l0538",
+    "kind": "label",
+    "en": "Arrow"
+  },
+  {
+    "id": "l0539",
+    "kind": "label",
+    "en": "Assistant"
+  },
+  {
+    "id": "l0540",
+    "kind": "label",
+    "en": "Asterisk"
+  },
+  {
+    "id": "l0541",
+    "kind": "label",
+    "en": "Atomics"
+  },
+  {
+    "id": "l0542",
+    "kind": "label",
+    "en": "Autocomplete"
+  },
+  {
+    "id": "l0543",
+    "kind": "label",
+    "en": "Avatar"
+  },
+  {
+    "id": "l0544",
+    "kind": "label",
+    "en": "Azure"
+  },
+  {
+    "id": "l0545",
+    "kind": "label",
+    "en": "Backdrop"
+  },
+  {
+    "id": "l0546",
+    "kind": "label",
+    "en": "Backspace"
+  },
+  {
+    "id": "l0547",
+    "kind": "label",
+    "en": "Badge"
+  },
+  {
+    "id": "l0548",
+    "kind": "label",
+    "en": "Bash"
+  },
+  {
+    "id": "l0549",
+    "kind": "label",
+    "en": "Belarusian"
+  },
+  {
+    "id": "l0550",
+    "kind": "label",
+    "en": "Bengali"
+  },
+  {
+    "id": "l0551",
+    "kind": "label",
+    "en": "Boolean"
+  },
+  {
+    "id": "l0552",
+    "kind": "label",
+    "en": "Bosnian"
+  },
+  {
+    "id": "l0553",
+    "kind": "label",
+    "en": "Bottom"
+  },
+  {
+    "id": "l0554",
+    "kind": "label",
+    "en": "Breadcrumbs"
+  },
+  {
+    "id": "l0555",
+    "kind": "label",
+    "en": "Bulgarian"
+  },
+  {
+    "id": "l0556",
+    "kind": "label",
+    "en": "Button"
+  },
+  {
+    "id": "l0557",
+    "kind": "label",
+    "en": "Camera"
+  },
+  {
+    "id": "l0558",
+    "kind": "label",
+    "en": "Cancel"
+  },
+  {
+    "id": "l0559",
+    "kind": "label",
+    "en": "Capture"
+  },
+  {
+    "id": "l0560",
+    "kind": "label",
+    "en": "Catalan"
+  },
+  {
+    "id": "l0561",
+    "kind": "label",
+    "en": "Chat"
+  },
+  {
+    "id": "l0562",
+    "kind": "label",
+    "en": "Chip"
+  },
+  {
+    "id": "l0563",
+    "kind": "label",
+    "en": "Cineon"
+  },
+  {
+    "id": "l0564",
+    "kind": "label",
+    "en": "Circle"
+  },
+  {
+    "id": "l0565",
+    "kind": "label",
+    "en": "Clear"
+  },
+  {
+    "id": "l0566",
+    "kind": "label",
+    "en": "Close"
+  },
+  {
+    "id": "l0567",
+    "kind": "label",
+    "en": "Collapse"
+  },
+  {
+    "id": "l0568",
+    "kind": "label",
+    "en": "Comment"
+  },
+  {
+    "id": "l0569",
+    "kind": "label",
+    "en": "Confirm"
+  },
+  {
+    "id": "l0570",
+    "kind": "label",
+    "en": "Container"
+  },
+  {
+    "id": "l0571",
+    "kind": "label",
+    "en": "Context"
+  },
+  {
+    "id": "l0572",
+    "kind": "label",
+    "en": "Control"
+  },
+  {
+    "id": "l0573",
+    "kind": "label",
+    "en": "Cookie"
+  },
+  {
+    "id": "l0574",
+    "kind": "label",
+    "en": "Credits"
+  },
+  {
+    "id": "l0575",
+    "kind": "label",
+    "en": "Croatian"
+  },
+  {
+    "id": "l0576",
+    "kind": "label",
+    "en": "Custom"
+  },
+  {
+    "id": "l0577",
+    "kind": "label",
+    "en": "Czech"
+  },
+  {
+    "id": "l0578",
+    "kind": "label",
+    "en": "Danish"
+  },
+  {
+    "id": "l0579",
+    "kind": "label",
+    "en": "Dashed"
+  },
+  {
+    "id": "l0580",
+    "kind": "label",
+    "en": "Date"
+  },
+  {
+    "id": "l0581",
+    "kind": "label",
+    "en": "Debug"
+  },
+  {
+    "id": "l0582",
+    "kind": "label",
+    "en": "Dedupe"
+  },
+  {
+    "id": "l0583",
+    "kind": "label",
+    "en": "Delete"
+  },
+  {
+    "id": "l0584",
+    "kind": "label",
+    "en": "Description"
+  },
+  {
+    "id": "l0585",
+    "kind": "label",
+    "en": "Disconnected"
+  },
+  {
+    "id": "l0586",
+    "kind": "label",
+    "en": "Docked"
+  },
+  {
+    "id": "l0587",
+    "kind": "label",
+    "en": "Document"
+  },
+  {
+    "id": "l0588",
+    "kind": "label",
+    "en": "Dutch"
+  },
+  {
+    "id": "l0589",
+    "kind": "label",
+    "en": "Element"
+  },
+  {
+    "id": "l0590",
+    "kind": "label",
+    "en": "Email"
+  },
+  {
+    "id": "l0591",
+    "kind": "label",
+    "en": "End"
+  },
+  {
+    "id": "l0592",
+    "kind": "label",
+    "en": "English"
+  },
+  {
+    "id": "l0593",
+    "kind": "label",
+    "en": "Enter"
+  },
+  {
+    "id": "l0594",
+    "kind": "label",
+    "en": "Error"
+  },
+  {
+    "id": "l0595",
+    "kind": "label",
+    "en": "Escape"
+  },
+  {
+    "id": "l0596",
+    "kind": "label",
+    "en": "Estonian"
+  },
+  {
+    "id": "l0597",
+    "kind": "label",
+    "en": "Facebook"
+  },
+  {
+    "id": "l0598",
+    "kind": "label",
+    "en": "Fallback"
+  },
+  {
+    "id": "l0599",
+    "kind": "label",
+    "en": "Feedback"
+  },
+  {
+    "id": "l0600",
+    "kind": "label",
+    "en": "Finnish"
+  },
+  {
+    "id": "l0601",
+    "kind": "label",
+    "en": "Flemish"
+  },
+  {
+    "id": "l0602",
+    "kind": "label",
+    "en": "Footnotes"
+  },
+  {
+    "id": "l0603",
+    "kind": "label",
+    "en": "Fragment"
+  },
+  {
+    "id": "l0604",
+    "kind": "label",
+    "en": "French"
+  },
+  {
+    "id": "l0605",
+    "kind": "label",
+    "en": "Function"
+  },
+  {
+    "id": "l0606",
+    "kind": "label",
+    "en": "Generator"
+  },
+  {
+    "id": "l0607",
+    "kind": "label",
+    "en": "German"
+  },
+  {
+    "id": "l0608",
+    "kind": "label",
+    "en": "Google"
+  },
+  {
+    "id": "l0609",
+    "kind": "label",
+    "en": "Greek"
+  },
+  {
+    "id": "l0610",
+    "kind": "label",
+    "en": "Grid"
+  },
+  {
+    "id": "l0611",
+    "kind": "label",
+    "en": "Group"
+  },
+  {
+    "id": "l0612",
+    "kind": "label",
+    "en": "Hebrew"
+  },
+  {
+    "id": "l0613",
+    "kind": "label",
+    "en": "Hide"
+  },
+  {
+    "id": "l0614",
+    "kind": "label",
+    "en": "Highlight"
+  },
+  {
+    "id": "l0615",
+    "kind": "label",
+    "en": "Hindi"
+  },
+  {
+    "id": "l0616",
+    "kind": "label",
+    "en": "Home"
+  },
+  {
+    "id": "l0617",
+    "kind": "label",
+    "en": "Human"
+  },
+  {
+    "id": "l0618",
+    "kind": "label",
+    "en": "Hungarian"
+  },
+  {
+    "id": "l0619",
+    "kind": "label",
+    "en": "Icon"
+  },
+  {
+    "id": "l0620",
+    "kind": "label",
+    "en": "Img"
+  },
+  {
+    "id": "l0621",
+    "kind": "label",
+    "en": "Indicator"
+  },
+  {
+    "id": "l0622",
+    "kind": "label",
+    "en": "Indonesian"
+  },
+  {
+    "id": "l0623",
+    "kind": "label",
+    "en": "Infinity"
+  },
+  {
+    "id": "l0624",
+    "kind": "label",
+    "en": "Info"
+  },
+  {
+    "id": "l0625",
+    "kind": "label",
+    "en": "Input"
+  },
+  {
+    "id": "l0626",
+    "kind": "label",
+    "en": "Intl"
+  },
+  {
+    "id": "l0627",
+    "kind": "label",
+    "en": "Italian"
+  },
+  {
+    "id": "l0628",
+    "kind": "label",
+    "en": "Japanese"
+  },
+  {
+    "id": "l0629",
+    "kind": "label",
+    "en": "Kannada"
+  },
+  {
+    "id": "l0630",
+    "kind": "label",
+    "en": "Korean"
+  },
+  {
+    "id": "l0631",
+    "kind": "label",
+    "en": "Label"
+  },
+  {
+    "id": "l0632",
+    "kind": "label",
+    "en": "Latvian"
+  },
+  {
+    "id": "l0633",
+    "kind": "label",
+    "en": "Lazy"
+  },
+  {
+    "id": "l0634",
+    "kind": "label",
+    "en": "Left"
+  },
+  {
+    "id": "l0635",
+    "kind": "label",
+    "en": "Light"
+  },
+  {
+    "id": "l0636",
+    "kind": "label",
+    "en": "Line"
+  },
+  {
+    "id": "l0637",
+    "kind": "label",
+    "en": "Linear"
+  },
+  {
+    "id": "l0638",
+    "kind": "label",
+    "en": "List"
+  },
+  {
+    "id": "l0639",
+    "kind": "label",
+    "en": "Listbox"
+  },
+  {
+    "id": "l0640",
+    "kind": "label",
+    "en": "Lithuanian"
+  },
+  {
+    "id": "l0641",
+    "kind": "label",
+    "en": "Loading"
+  },
+  {
+    "id": "l0642",
+    "kind": "label",
+    "en": "Macedonian"
+  },
+  {
+    "id": "l0643",
+    "kind": "label",
+    "en": "Malay"
+  },
+  {
+    "id": "l0644",
+    "kind": "label",
+    "en": "Map"
+  },
+  {
+    "id": "l0645",
+    "kind": "label",
+    "en": "Marathi"
+  },
+  {
+    "id": "l0646",
+    "kind": "label",
+    "en": "Mark"
+  },
+  {
+    "id": "l0647",
+    "kind": "label",
+    "en": "Material"
+  },
+  {
+    "id": "l0648",
+    "kind": "label",
+    "en": "Math"
+  },
+  {
+    "id": "l0649",
+    "kind": "label",
+    "en": "Memo"
+  },
+  {
+    "id": "l0650",
+    "kind": "label",
+    "en": "Mesh"
+  },
+  {
+    "id": "l0651",
+    "kind": "label",
+    "en": "Message"
+  },
+  {
+    "id": "l0652",
+    "kind": "label",
+    "en": "Model"
+  },
+  {
+    "id": "l0653",
+    "kind": "label",
+    "en": "Module"
+  },
+  {
+    "id": "l0654",
+    "kind": "label",
+    "en": "Multilingual"
+  },
+  {
+    "id": "l0655",
+    "kind": "label",
+    "en": "Name"
+  },
+  {
+    "id": "l0656",
+    "kind": "label",
+    "en": "Neutral"
+  },
+  {
+    "id": "l0657",
+    "kind": "label",
+    "en": "Node"
+  },
+  {
+    "id": "l0658",
+    "kind": "label",
+    "en": "Norwegian"
+  },
+  {
+    "id": "l0659",
+    "kind": "label",
+    "en": "Notification"
+  },
+  {
+    "id": "l0660",
+    "kind": "label",
+    "en": "Number"
+  },
+  {
+    "id": "l0661",
+    "kind": "label",
+    "en": "Object"
+  },
+  {
+    "id": "l0662",
+    "kind": "label",
+    "en": "Off"
+  },
+  {
+    "id": "l0663",
+    "kind": "label",
+    "en": "Open"
+  },
+  {
+    "id": "l0664",
+    "kind": "label",
+    "en": "Paper"
+  },
+  {
+    "id": "l0665",
+    "kind": "label",
+    "en": "Patches"
+  },
+  {
+    "id": "l0666",
+    "kind": "label",
+    "en": "Patron"
+  },
+  {
+    "id": "l0667",
+    "kind": "label",
+    "en": "Persian"
+  },
+  {
+    "id": "l0668",
+    "kind": "label",
+    "en": "Polish"
+  },
+  {
+    "id": "l0669",
+    "kind": "label",
+    "en": "Popper"
+  },
+  {
+    "id": "l0670",
+    "kind": "label",
+    "en": "Portal"
+  },
+  {
+    "id": "l0671",
+    "kind": "label",
+    "en": "Portuguese"
+  },
+  {
+    "id": "l0672",
+    "kind": "label",
+    "en": "Profiler"
+  },
+  {
+    "id": "l0673",
+    "kind": "label",
+    "en": "Promise"
+  },
+  {
+    "id": "l0674",
+    "kind": "label",
+    "en": "Proxy"
+  },
+  {
+    "id": "l0675",
+    "kind": "label",
+    "en": "Rail"
+  },
+  {
+    "id": "l0676",
+    "kind": "label",
+    "en": "Ready"
+  },
+  {
+    "id": "l0677",
+    "kind": "label",
+    "en": "Reddit"
+  },
+  {
+    "id": "l0678",
+    "kind": "label",
+    "en": "Reference"
+  },
+  {
+    "id": "l0679",
+    "kind": "label",
+    "en": "Reflect"
+  },
+  {
+    "id": "l0680",
+    "kind": "label",
+    "en": "Reinhard"
+  },
+  {
+    "id": "l0681",
+    "kind": "label",
+    "en": "Rejected"
+  },
+  {
+    "id": "l0682",
+    "kind": "label",
+    "en": "Remove"
+  },
+  {
+    "id": "l0683",
+    "kind": "label",
+    "en": "Replay"
+  },
+  {
+    "id": "l0684",
+    "kind": "label",
+    "en": "Report"
+  },
+  {
+    "id": "l0685",
+    "kind": "label",
+    "en": "Right"
+  },
+  {
+    "id": "l0686",
+    "kind": "label",
+    "en": "Ripple"
+  },
+  {
+    "id": "l0687",
+    "kind": "label",
+    "en": "Romanian"
+  },
+  {
+    "id": "l0688",
+    "kind": "label",
+    "en": "Root"
+  },
+  {
+    "id": "l0689",
+    "kind": "label",
+    "en": "Russian"
+  },
+  {
+    "id": "l0690",
+    "kind": "label",
+    "en": "Scene"
+  },
+  {
+    "id": "l0691",
+    "kind": "label",
+    "en": "Schematic"
+  },
+  {
+    "id": "l0692",
+    "kind": "label",
+    "en": "Screen"
+  },
+  {
+    "id": "l0693",
+    "kind": "label",
+    "en": "Scroller"
+  },
+  {
+    "id": "l0694",
+    "kind": "label",
+    "en": "Select"
+  },
+  {
+    "id": "l0695",
+    "kind": "label",
+    "en": "Serbian"
+  },
+  {
+    "id": "l0696",
+    "kind": "label",
+    "en": "Server"
+  },
+  {
+    "id": "l0697",
+    "kind": "label",
+    "en": "Session"
+  },
+  {
+    "id": "l0698",
+    "kind": "label",
+    "en": "Set"
+  },
+  {
+    "id": "l0699",
+    "kind": "label",
+    "en": "Share"
+  },
+  {
+    "id": "l0700",
+    "kind": "label",
+    "en": "Skeleton"
+  },
+  {
+    "id": "l0701",
+    "kind": "label",
+    "en": "Skin"
+  },
+  {
+    "id": "l0702",
+    "kind": "label",
+    "en": "Slide"
+  },
+  {
+    "id": "l0703",
+    "kind": "label",
+    "en": "Slider"
+  },
+  {
+    "id": "l0704",
+    "kind": "label",
+    "en": "Slovak"
+  },
+  {
+    "id": "l0705",
+    "kind": "label",
+    "en": "Slovenian"
+  },
+  {
+    "id": "l0706",
+    "kind": "label",
+    "en": "Snackbar"
+  },
+  {
+    "id": "l0707",
+    "kind": "label",
+    "en": "Social"
+  },
+  {
+    "id": "l0708",
+    "kind": "label",
+    "en": "Spanish"
+  },
+  {
+    "id": "l0709",
+    "kind": "label",
+    "en": "Spotlight"
+  },
+  {
+    "id": "l0710",
+    "kind": "label",
+    "en": "Sprite"
+  },
+  {
+    "id": "l0711",
+    "kind": "label",
+    "en": "Statsig"
+  },
+  {
+    "id": "l0712",
+    "kind": "label",
+    "en": "Stream"
+  },
+  {
+    "id": "l0713",
+    "kind": "label",
+    "en": "String"
+  },
+  {
+    "id": "l0714",
+    "kind": "label",
+    "en": "Supabase"
+  },
+  {
+    "id": "l0715",
+    "kind": "label",
+    "en": "Suspense"
+  },
+  {
+    "id": "l0716",
+    "kind": "label",
+    "en": "Svg"
+  },
+  {
+    "id": "l0717",
+    "kind": "label",
+    "en": "Swedish"
+  },
+  {
+    "id": "l0718",
+    "kind": "label",
+    "en": "Swift"
+  },
+  {
+    "id": "l0719",
+    "kind": "label",
+    "en": "Switch"
+  },
+  {
+    "id": "l0720",
+    "kind": "label",
+    "en": "Symbol"
+  },
+  {
+    "id": "l0721",
+    "kind": "label",
+    "en": "System"
+  },
+  {
+    "id": "l0722",
+    "kind": "label",
+    "en": "Tab"
+  },
+  {
+    "id": "l0723",
+    "kind": "label",
+    "en": "Tagalog"
+  },
+  {
+    "id": "l0724",
+    "kind": "label",
+    "en": "Tamil"
+  },
+  {
+    "id": "l0725",
+    "kind": "label",
+    "en": "Telegram"
+  },
+  {
+    "id": "l0726",
+    "kind": "label",
+    "en": "Telugu"
+  },
+  {
+    "id": "l0727",
+    "kind": "label",
+    "en": "Text"
+  },
+  {
+    "id": "l0728",
+    "kind": "label",
+    "en": "Texture"
+  },
+  {
+    "id": "l0729",
+    "kind": "label",
+    "en": "Thai"
+  },
+  {
+    "id": "l0730",
+    "kind": "label",
+    "en": "Thumb"
+  },
+  {
+    "id": "l0731",
+    "kind": "label",
+    "en": "Tool"
+  },
+  {
+    "id": "l0732",
+    "kind": "label",
+    "en": "Tooltip"
+  },
+  {
+    "id": "l0733",
+    "kind": "label",
+    "en": "Top"
+  },
+  {
+    "id": "l0734",
+    "kind": "label",
+    "en": "Track"
+  },
+  {
+    "id": "l0735",
+    "kind": "label",
+    "en": "Turkish"
+  },
+  {
+    "id": "l0736",
+    "kind": "label",
+    "en": "Ukrainian"
+  },
+  {
+    "id": "l0737",
+    "kind": "label",
+    "en": "Unknown"
+  },
+  {
+    "id": "l0738",
+    "kind": "label",
+    "en": "Unleash"
+  },
+  {
+    "id": "l0739",
+    "kind": "label",
+    "en": "Unnamed"
+  },
+  {
+    "id": "l0740",
+    "kind": "label",
+    "en": "Urdu"
+  },
+  {
+    "id": "l0741",
+    "kind": "label",
+    "en": "Vietnamese"
+  },
+  {
+    "id": "l0742",
+    "kind": "label",
+    "en": "Voice"
+  },
+  {
+    "id": "l0743",
+    "kind": "label",
+    "en": "Volume"
+  },
+  {
+    "id": "l0744",
+    "kind": "label",
+    "en": "Warn"
+  },
+  {
+    "id": "l0745",
+    "kind": "label",
+    "en": "Window"
+  },
+  {
+    "id": "l0746",
+    "kind": "label",
+    "en": "Worker"
+  },
+  {
+    "id": "l0747",
+    "kind": "label",
+    "en": "Wrapper"
+  }
+]

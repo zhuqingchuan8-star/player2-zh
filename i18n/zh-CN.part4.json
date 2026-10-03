@@ -1,0 +1,20 @@
+{
+  "Chat completion": "对话补全",
+  "Speech to text": "语音转文字",
+  "Error navigating to subscription page": "跳转到订阅页面出错",
+  "Error reporting Character": "举报角色出错",
+  "Error reporting schematic": "举报蓝图出错",
+  "More information": "更多信息",
+  "Purchase failed": "购买失败",
+  "Spin failed": "抽奖失败",
+  "Join Patron": "加入赞助",
+  "(unnamed)": "（未命名）",
+  "(unknown game)": "（未知游戏）",
+  "Error retrieving referral code. Please try again.": "获取推荐码出错，请重试。",
+  "You need to use the latest Player2 App for the best experience. Please download the latest version from": "为了获得最佳体验，你需要使用最新的 Player2 应用。请从以下地址下载最新版本：",
+  "You need to use the latest Player2 App for the best experience. Please try restarting or download the latest version from": "为了获得最佳体验，你需要使用最新的 Player2 应用。请尝试重启，或从以下地址下载最新版本：",
+  "Assign \"": "分配 \"",
+  "\" to override a character voice in games.": "\" 以在游戏中覆盖某个角色语音。",
+  "Extra prompt text added to every image you generate or edit, after the request’s own prompt. Applies anywhere your image model choice applies — games, My Creations, story scenes and generated assets. Use the Enabled switch to turn it on or off without deleting it.": "在你生成或编辑每张图像时，于该请求自身的提示词之后追加的额外提示词。适用于你的图像模型选择生效的所有场合 — 游戏、我的创作、剧情场景和生成的素材。可用「已启用」开关开启或关闭，而无需删除。",
+  "Makes the character reply in the voice for whichever language you spoke, instead of always using the voice set above. Useful if you switch languages mid-session.": "让角色用你所说话言的语音来回复，而不是固定使用上面设置的语音。如果你在会话中途切换语言会很有用。"
+}
