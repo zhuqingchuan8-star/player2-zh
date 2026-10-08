@@ -1,9 +1,15 @@
 # 第三方二进制与解包产物（体积大、含第三方版权内容，不入库）
 out/*.exe
 frontend/
+frontend*/
 
 # 备份文件
 *.bak
 
 # 临时扫描/提取输出
 i18n/_*.txt
+i18n/_counts_*.json
+
+# 临时工作目录与 UI 自动化文本转储（含本机界面内容，不入库）
+tmp/
+shots/*.txt
