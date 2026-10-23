@@ -68,6 +68,8 @@ const re = new RegExp('(?:' + props + ')\\s*:\\s*"((?:[^"\\\\]|\\\\.)*)"', "g");
 let m, n2 = 0;
 while ((m = re.exec(js)) !== null) {
   const raw = m[1];
+  // 显式词条优先：raw 本身是词库键（含“同一性标记”键）时不再套用后缀规则，避免把品牌名误拆
+  if (Object.hasOwn(D, raw)) continue;
   let t = null;
   for (const [en, zh] of Object.entries(D)) {
     if (raw.length > en.length && raw.endsWith(en)) {

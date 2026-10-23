@@ -1,17 +1,7 @@
 {
-  "{label:\"Character\",link:\"/agents\"": "{label:\"角色\",link:\"/agents\"",
-  "{key:\"characters\",title:\"Character\"": "{key:\"characters\",title:\"角色\"",
-  "label:\"Character\",color:\"secondary\"": "label:\"角色\",color:\"secondary\"",
-  "?\"Game\":\"Character\"": "?\"游戏\":\"角色\"",
-  "||\"Character\"": "||\"角色\"",
-  "{label:\"Game\",color:\"primary\"}": "{label:\"游戏\",color:\"primary\"}",
-  "{key:\"games\",title:\"Game\"": "{key:\"games\",title:\"游戏\"",
-  "{label:\"Other\",color:\"default\"}": "{label:\"其他\",color:\"default\"}",
-  "{label:\"Chat\",modality:\"chat\"}": "{label:\"聊天\",modality:\"chat\"}",
-  "{label:\"Images\",modality:\"image\"}": "{label:\"图像\",modality:\"image\"}",
-  "label:\"Assistant\",color:\"success.main\"": "label:\"助手\",color:\"success.main\"",
-  "label:\"fallback\"": "label:\"回退\"",
-  "ariaLabel:`About ${d.title}`": "ariaLabel:`关于 ${d.title}`",
-  "ariaLabel:`About the ${t.title}`": "ariaLabel:`关于 ${t.title}`",
-  "ariaLabel:g!=null?g:`About ${p}`": "ariaLabel:g!=null?g:`关于 ${p}`"
+  "a.jsx(cf,{children:\"Home\"})": "a.jsx(cf,{children:\"主页\"})",
+  "a.jsx(cf,{children:\"Patron\"})": "a.jsx(cf,{children:\"赞助者\"})",
+  "a.jsx(Tr,{children:\"Patron\"})": "a.jsx(Tr,{children:\"赞助者\"})",
+  "children:[\"Uptime \",": "children:[\"在线率 \",",
+  ",\"h:\",\" \",": ",\" 小时 \",\" \","
 }

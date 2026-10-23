@@ -30,5 +30,10 @@
   "label:\"fallback\"": "label:\"回退\"",
   "ariaLabel:`About ${d.title}`": "ariaLabel:`关于 ${d.title}`",
   "ariaLabel:`About the ${t.title}`": "ariaLabel:`关于 ${t.title}`",
-  "ariaLabel:g!=null?g:`About ${p}`": "ariaLabel:g!=null?g:`关于 ${p}`"
+  "ariaLabel:g!=null?g:`About ${p}`": "ariaLabel:g!=null?g:`关于 ${p}`",
+  "a.jsx(cf,{children:\"Home\"})": "a.jsx(cf,{children:\"主页\"})",
+  "a.jsx(cf,{children:\"Patron\"})": "a.jsx(cf,{children:\"赞助者\"})",
+  "a.jsx(Tr,{children:\"Patron\"})": "a.jsx(Tr,{children:\"赞助者\"})",
+  "children:[\"Uptime \",": "children:[\"在线率 \",",
+  ",\"h:\",\" \",": ",\" 小时 \",\" \","
 }
